@@ -1,0 +1,139 @@
+/* Cabecera */
+
+body{
+	background: black;
+}
+
+.container_12{
+	background-image: url("../Imagenes/Fondo/fondo.png");
+	background-repeat: no-repeat;
+}
+
+.banner {
+	height: 200px;
+	margin-bottom: 50px;
+}
+
+.banner img{
+	margin-top: 20px;
+	width: 900px;
+	height: 200px;
+	margin-left: 21px;
+}
+/*Carrusel*/
+
+.carrusel{
+	width: 100%;
+	height: 570px;
+}
+
+.carrusel h1{
+	margin-top: 17px;
+	font-family: 'Vidaloka', serif;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+/* Articulo */
+
+.mitad{
+	margin-top: 20px;
+	height: 500px;
+}
+
+.mitad p{
+	width: 410px;
+	height: 400px;
+	text-align: justify;
+	margin: 20px 20px;
+	font-size: 17px;
+	font-family: 'Lato', sans-serif;
+}
+
+.mitad h1{
+	font-family: 'Vidaloka', serif;
+	margin-left: 20px;
+}
+
+/*Video */
+
+.video{
+	height: 300px;
+}
+
+.video h1{
+	font-family: 'Vidaloka', serif;
+}
+
+.mitad video{
+	width: 440px;
+	height: 290px;
+	margin-left: 8px;
+}
+
+/*Audio*/
+
+.audio{                                                                                                             
+	height: 50px;
+}
+
+.mitad audio{
+	padding-top: 10px;
+	margin-left: 10px;
+}
+
+.audio h1{
+	font-family: 'Vidaloka', serif;
+}
+
+
+/*Pie */
+
+	footer{
+			height: 150px;
+	}
+	.final{
+		margin-top: 20px;
+
+	}
+
+	.final h5{
+		font-family: 'Vidaloka', serif;
+	}
+
+	.redes {
+		display: flex;
+		justify-content: center;
+		padding-top: 20px;
+
+	}
+
+	.redes i{
+		padding-left: 10px;
+
+	}
+
+	.contacto{
+		text-align: center;
+		font-family: 'Montserrat', sans-serif;
+	}
+
+	.contacto p{
+		font-family: 'Oswald', sans-serif;
+	}
+
+	.informacion{
+		text-align: center;
+		font-family: 'Montserrat', sans-serif;
+	}
+
+	.informacion a{
+		text-decoration:none;
+		color: black;
+		font-weight: bolder;
+		font-family: 'Oswald', sans-serif;
+	}
+
+	.redes a{
+		color:black;
+	}
